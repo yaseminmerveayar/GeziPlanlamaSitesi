@@ -1,1 +1,1 @@
-# gezi-planlama-sitesi
+# Gezi Planlama Sitesi
